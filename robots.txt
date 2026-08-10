@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-bncpq9.1casino.co.nz/sitemap.xml
